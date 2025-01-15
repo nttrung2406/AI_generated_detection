@@ -12,4 +12,4 @@ Runn the command:
 
 >> streamlit run app.py
 
-or use the render website
+
